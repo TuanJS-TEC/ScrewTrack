@@ -3,3 +3,5 @@ build/
 model/
 Data/
 docs/
+*.db
+*.idx
